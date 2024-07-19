@@ -1,5 +1,11 @@
 body {
   text-align: center;
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(153,148,233,1) 100%);
+}
+
+.text {
+  color: #000;
 }
 
 .btn{
@@ -16,19 +22,19 @@ body {
 }
 
 .red{
-  background-color: #d95988;
+  background-color: #FF4D6D;
 }
 
 .yellow{
-  background-color: #f99b45;
+  background-color: #E6C229;
 }
 
 .purple{
-  background-color: #819ff9;
+  background-color: #9D4EDD;
 }
 
 .green{
-  background-color: #63aac0;
+  background-color: #95D5B2;
 }
 
 .flash {

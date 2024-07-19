@@ -79,9 +79,6 @@ function reset() {
     highScore = `${level}`;
     p.innerText =`High score : ${level}`;
     console.log("showhighscor");
-    localStorage.setItem(highScore,level);
-    console.log(`${highScore}`)
-
   }
 
  }
